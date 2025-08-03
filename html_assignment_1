@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Connecting grassroots organizations to funders, proposal writers, and other service providers.">
+  <meta name="keywords" content="grassroots, funding, proposal writing, NGO, development, partnerships">
+  <meta name="author" content="Grassroots Connect">
+  <title>Grassroots Connect – Empowering Local Impact</title>
+</head>
+<body>
+  <header>
+    <h1>Grassroots Connect</h1>
+    <nav aria-label="Main Navigation">
+      <ul>
+        <li><a href="#about">About</a></li>
+        <li><a href="#services">Services</a></li>
+        <li><a href="#partners">Partners</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <section id="about">
+      <h2>About the Platform</h2>
+      <p>Grassroots Connect is a digital gateway designed to help community-based organizations access funding, capacity-building support and expert services such as proposal writing, grant application as well as monitoring and evaluation.</p>
+    </section>
+
+    <section id="services">
+      <h2>Services We Offer</h2>
+      <p>We provide targeted support to enhance your impact and sustainability:</p>
+
+      <table>
+        <!--Caption-->
+        <caption>Overview of Services</caption>
+        <thead>
+          <tr>
+            <th scope="col">Service</th>
+            <th scope="col">Description</th>
+            <th scope="col">Who It's For</th>
+          </tr>
+        </thead>
+        <!--Un-ordered lists-->
+        <ol>
+          <li>Proposal Writing</li>
+          <li>Work with skilled professionals to craft winning grant proposals.</li>
+          <li>Grassroots Organizations & Community Groups</li>
+        </ol>
+            
+        <tbody>
+          <tr>
+            <td>Proposal Writing</td>
+            <td>Work with skilled professionals to craft winning grant proposals.</td>
+            <td>Grassroots Organizations & Community Groups</td>
+          </tr>
+          <tr>
+            <td>Funder Connections</td>
+            <td>Discover and connect with aligned donors and development partners.</td>
+            <td>Registered Platform Users</td>
+          </tr>
+          <tr>
+            <td>Training & Capacity Building</td>
+            <td>Attend webinars and workshops on project management and resource mobilization.</td>
+            <td>Staff and Volunteers</td>
+          </tr>
+        </tbody>
+      </table>
+    </section>
+
+    <section id="partners">
+      <h2>Our Partners</h2>
+      <p>We proudly work with:</p>
+      <ol>
+        <li>East Africa Funders Collective</li>
+        <li>Global Proposal Writers Network</li>
+        <li>Local Impact Hubs</li>
+      </0l>
+    </section>
+
+    <section id="contact">
+      <h2>Contact Information</h2>
+      <address>
+        <p>Email: <a href="#">#</a></p>
+        <p>Phone: +254 712 345678</p>
+        <p>Location: Nairobi, Kenya</p>
+      </address>
+    </section>
+  </main>
+
+  <footer>
+    <h4>Collaboration is the spark that ignites impact, when we come together with purpose, we multiply our power to create lasting change.</h4>
+    <p>&copy; 2025 Grassroots Connect. All rights reserved.</p>
+  </footer>
+</body>
+</html>
+
+
+</html>
